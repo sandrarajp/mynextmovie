@@ -7,9 +7,13 @@ The Next Movie Recommendation System suggests movies to users based on their int
 
 Features
 ✅ Personalized Recommendations – Suggests movies based on user preferences.
+
 ✅ Genre-Based Filtering – Allows users to explore movies from favorite genres.
+
 ✅ Popularity-Based Suggestions – Recommends trending and highly-rated movies.
+
 ✅ Content-Based Filtering – Finds similar movies using metadata (genre, director, cast).
+
 ✅ Collaborative Filtering – Suggests movies based on other users with similar interests.
 
 ---
@@ -18,15 +22,18 @@ Tech Stack
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
+
 Frameworks: Flask (backend), React (frontend)
+
 Database: MySQL, PostgreSQL
+
 Dataset: MovieLens Dataset (movies.csv, ratings.csv)
 
 ---
 
 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/yourusername/mynextmovie.git
+git clone https://github.com/sandrarajp/mynextmovie.git
 cd mynextmovie
 2. Install Dependencies
 pip install -r requirements.txt
