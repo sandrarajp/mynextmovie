@@ -16,6 +16,7 @@ Features
 
 Tech Stack
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
 Frameworks: Flask (backend), React (frontend)
 Database: MySQL, PostgreSQL
