@@ -6,6 +6,7 @@ The Next Movie Recommendation System suggests movies to users based on their int
 ---
 
 Features
+
 ✅ Personalized Recommendations – Suggests movies based on user preferences.
 
 ✅ Genre-Based Filtering – Allows users to explore movies from favorite genres.
@@ -19,6 +20,7 @@ Features
 ---
 
 Tech Stack
+
 Programming Language: Python
 
 Libraries: Pandas, NumPy, Scikit-learn, TensorFlow
